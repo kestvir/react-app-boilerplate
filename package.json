@@ -1,7 +1,7 @@
 {
-  "name": "vinted-homework-assignment",
+  "name": "react-app-boilerplate",
   "version": "1.0.0",
-  "description": "vinted-homework-assignment",
+  "description": "react-app-boilerplate",
   "main": "index.tsx",
   "scripts": {
     "test": "jest",
